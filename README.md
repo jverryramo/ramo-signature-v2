@@ -2,6 +2,8 @@
 
 Générateur de signatures courriel Ramo, récupéré depuis la version publiée sur Manus.
 
+Dépôt GitHub : <https://github.com/jverryramo/ramo-signature-v2>
+
 ## Utilisation locale
 
 Ouvrir `index.html` dans un navigateur. L’application est autonome et ne nécessite
